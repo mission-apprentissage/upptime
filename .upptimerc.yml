@@ -6,16 +6,20 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Catalogue
     url: https://catalogue.apprentissage.beta.gouv.fr/
+    icon: https://catalogue.apprentissage.beta.gouv.fr/favicon.ico
   - name: Catalogue API
     url: https://catalogue.apprentissage.beta.gouv.fr/api
   - name: La bonne alternance
     url: https://labonnealternance.apprentissage.beta.gouv.fr/
+    icon: https://catalogue.apprentissage.beta.gouv.fr/favicon.ico
   - name: La bonne alternance API
     url: https://labonnealternance.apprentissage.beta.gouv.fr/api
   - name: Flux Cfa
     url: https://cfas.apprentissage.beta.gouv.fr/
+    icon: https://catalogue.apprentissage.beta.gouv.fr/favicon.ico
   - name: Prise de rendez-vous 
     url: https://rdv-cfa.apprentissage.beta.gouv.fr/
+    icon: https://catalogue.apprentissage.beta.gouv.fr/favicon.ico
   - name: Prise de rendez-vous API
     url: https://rdv-cfa.apprentissage.beta.gouv.fr/api
   - name: API Tables de correspondances
