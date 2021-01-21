@@ -35,11 +35,6 @@ sites:
   - name: API Tables de correspondances recette
     url: https://tables-correspondances-recette.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  # - name: Test for HEAD
-  #   method: HEAD
-  #   url: https://www.google.com
-  # - name: Secret Site
-  #   url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -58,3 +53,11 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/2 * * * *"
