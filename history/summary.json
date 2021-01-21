@@ -94,19 +94,19 @@
     "url": "https://tables-correspondances-recette.apprentissage.beta.gouv.fr/api",
     "icon": "https://favicons.githubusercontent.com/tables-correspondances-recette.apprentissage.beta.gouv.fr",
     "slug": "api-tables-de-correspondances-recette",
-    "status": "down",
-    "uptime": "91.32%",
-    "uptimeDay": "91.32%",
-    "uptimeWeek": "91.32%",
-    "uptimeMonth": "91.32%",
-    "uptimeYear": "91.32%",
-    "time": 595,
-    "timeDay": 595,
-    "timeWeek": 595,
-    "timeMonth": 595,
-    "timeYear": 595,
+    "status": "up",
+    "uptime": "84.87%",
+    "uptimeDay": "84.87%",
+    "uptimeWeek": "84.87%",
+    "uptimeMonth": "84.87%",
+    "uptimeYear": "84.87%",
+    "time": 604,
+    "timeDay": 604,
+    "timeWeek": 604,
+    "timeMonth": 604,
+    "timeYear": 604,
     "dailyMinutesDown": {
-      "2021-01-21": 10
+      "2021-01-21": 19
     }
   }
 ]
