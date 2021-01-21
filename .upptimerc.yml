@@ -26,9 +26,9 @@ sites:
   - name: Prise de rendez-vous 
     url: https://rdv-cfa.apprentissage.beta.gouv.fr/
     icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
-  - name: Prise de rendez-vous recette
-    url: https://rdv-cfa-recette.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
+  # - name: Prise de rendez-vous recette
+  #   url: https://rdv-cfa-recette.apprentissage.beta.gouv.fr/
+  #   icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
   - name: Prise de rendez-vous API
     url: https://rdv-cfa.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
