@@ -6,7 +6,7 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Catalogue
     url: https://catalogue.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/favicon.ico
+    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
   - name: Catalogue API
     url: https://catalogue.apprentissage.beta.gouv.fr/api
   - name: La bonne alternance
