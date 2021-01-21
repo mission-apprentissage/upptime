@@ -6,35 +6,16 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Catalogue
     url: https://catalogue.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
   - name: Catalogue API
     url: https://catalogue.apprentissage.beta.gouv.fr/api
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: La bonne alternance
-    url: https://labonnealternance.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
-  - name: La bonne alternance API
-    url: https://labonnealternance.apprentissage.beta.gouv.fr/api
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Flux CFA
-    url: https://cfas.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
-  - name: Sirius
-    url: https://sirius.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
-    __dangerous__insecure: true
-  - name: Prise de rendez-vous 
-    url: https://rdv-cfa.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
-  - name: Prise de rendez-vous API
-    url: https://rdv-cfa.apprentissage.beta.gouv.fr/api
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: Catalogue Recette
+    url: https://catalogue-recette.apprentissage.beta.gouv.fr/
+  - name: Catalogue API Recette
+    url: https://catalogue-recette.apprentissage.beta.gouv.fr/api
   - name: API Tables de correspondances
     url: https://tables-correspondances.apprentissage.beta.gouv.fr/api
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: API Tables de correspondances recette
     url: https://tables-correspondances-recette.apprentissage.beta.gouv.fr/api
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
