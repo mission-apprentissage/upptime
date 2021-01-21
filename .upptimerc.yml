@@ -16,7 +16,7 @@ sites:
   - name: La bonne alternance API
     url: https://labonnealternance.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Flux Cfa
+  - name: Flux CFA
     url: https://cfas.apprentissage.beta.gouv.fr/
     icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
   - name: Sirius
