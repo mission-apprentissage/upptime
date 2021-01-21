@@ -11,15 +11,15 @@ sites:
     url: https://catalogue.apprentissage.beta.gouv.fr/api
   - name: La bonne alternance
     url: https://labonnealternance.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/favicon.ico
+    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
   - name: La bonne alternance API
     url: https://labonnealternance.apprentissage.beta.gouv.fr/api
   - name: Flux Cfa
     url: https://cfas.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/favicon.ico
+    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
   - name: Prise de rendez-vous 
     url: https://rdv-cfa.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/favicon.ico
+    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
   - name: Prise de rendez-vous API
     url: https://rdv-cfa.apprentissage.beta.gouv.fr/api
   - name: API Tables de correspondances
