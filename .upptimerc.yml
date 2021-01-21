@@ -14,12 +14,6 @@ sites:
     url: https://catalogue-recette.apprentissage.beta.gouv.fr/api
   - name: API Tables de correspondances
     url: https://tables-correspondances.apprentissage.beta.gouv.fr/api
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
