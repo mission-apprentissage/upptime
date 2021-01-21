@@ -19,6 +19,9 @@ sites:
   - name: Flux Cfa
     url: https://cfas.apprentissage.beta.gouv.fr/
     icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
+  - name: Sirius
+    url: https://sirius.apprentissage.beta.gouv.fr/
+    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
   - name: Prise de rendez-vous 
     url: https://rdv-cfa.apprentissage.beta.gouv.fr/
     icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
