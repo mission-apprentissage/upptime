@@ -4,6 +4,14 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: Catalogue
+    url: https://catalogue.apprentissage.beta.gouv.fr/
+  - name: Catalogue API
+    url: https://catalogue.apprentissage.beta.gouv.fr/api
+  - name: Catalogue Recette
+    url: https://catalogue-recette.apprentissage.beta.gouv.fr/
+  - name: Catalogue API Recette
+    url: https://catalogue-recette.apprentissage.beta.gouv.fr/api
   - name: API Tables de correspondances
     url: https://tables-correspondances.apprentissage.beta.gouv.fr/api
   - name: Wikipedia
