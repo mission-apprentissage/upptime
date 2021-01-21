@@ -4,8 +4,8 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: API Tables de correspondances
+    url: https://tables-correspondances.apprentissage.beta.gouv.fr/api
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
@@ -25,8 +25,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Mission-apprentissage Uptime
-  introTitle: "**Mission apprentissage** services status"
-  introMessage: This is a status page which uses **real-time** data.
+  introTitle: "**Mission apprentissage** statuts des services"
+  introMessage: Cette page de status vous donne des informations en temps-réel du niveau de disponibilité de nos services.
   navbar:
     - title: Status
       href: /
