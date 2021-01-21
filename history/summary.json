@@ -95,18 +95,18 @@
     "icon": "https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png",
     "slug": "sirius",
     "status": "down",
-    "uptime": "7.44%",
-    "uptimeDay": "7.44%",
-    "uptimeWeek": "7.44%",
-    "uptimeMonth": "7.44%",
-    "uptimeYear": "7.44%",
+    "uptime": "4.02%",
+    "uptimeDay": "4.02%",
+    "uptimeWeek": "4.02%",
+    "uptimeMonth": "4.02%",
+    "uptimeYear": "4.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 0
+      "2021-01-21": 1
     }
   },
   {
