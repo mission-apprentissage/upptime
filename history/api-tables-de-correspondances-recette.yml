@@ -1,7 +1,7 @@
 url: https://tables-correspondances-recette.apprentissage.beta.gouv.fr/api
-status: up
-code: 200
-responseTime: 405
-lastUpdated: 2021-04-13T23:20:46.746Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2021-04-14T09:24:28.084Z
 startTime: Thu Jan 21 2021 14:23:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
