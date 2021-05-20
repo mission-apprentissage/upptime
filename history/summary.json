@@ -287,5 +287,23 @@
       "2021-01-27": 121,
       "2021-01-21": 19
     }
+  },
+  {
+    "name": "API Matcha",
+    "url": "https://matcha.apprentissage.beta.gouv.fr/api",
+    "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
+    "slug": "api-matcha",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
