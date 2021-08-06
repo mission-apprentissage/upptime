@@ -1,7 +1,7 @@
 url: https://voeux-affelnet.apprentissage.beta.gouv.fr/api/healthcheck
 status: up
 code: 200
-responseTime: 379
-lastUpdated: 2021-08-05T23:17:17.763Z
+responseTime: 370
+lastUpdated: 2021-08-06T23:16:55.346Z
 startTime: Thu May 20 2021 16:16:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
