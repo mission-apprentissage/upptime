@@ -6,26 +6,29 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Catalogue
     url: https://catalogue.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: Stats catalogue
+    url: https://catalogue.apprentissage.beta.gouv.fr/stats
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Catalogue API
     url: https://catalogue.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: La bonne alternance
     url: https://labonnealternance.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: La bonne alternance API
     url: https://labonnealternance.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Flux CFA
     url: https://cfas.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Sirius
     url: https://sirius.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
     __dangerous__insecure: true
   - name: Prise de rendez-vous 
     url: https://rdv-cfa.apprentissage.beta.gouv.fr/
-    icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   # - name: Prise de rendez-vous recette
   #   url: https://rdv-cfa-recette.apprentissage.beta.gouv.fr/
   #   icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
