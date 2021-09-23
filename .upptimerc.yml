@@ -44,8 +44,8 @@ sites:
   - name : API Matcha
     url : https://matcha.apprentissage.beta.gouv.fr/api
     icon : https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: API Voeux Affelnet
-    url: https://voeux-affelnet.apprentissage.beta.gouv.fr/api/healthcheck
+  - name: API Referentiel
+    url: https://referentiel.apprentissage.beta.gouv.fr/api/v1/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
 
 status-website:
