@@ -485,35 +485,39 @@
     "url": "https://cerfa.apprentissage.beta.gouv.fr/",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "cerfa-publique",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 395,
     "timeDay": 395,
     "timeWeek": 395,
     "timeMonth": 395,
     "timeYear": 395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-19": 1
+    }
   },
   {
     "name": "Cerfa publique API",
     "url": "https://cerfa.apprentissage.beta.gouv.fr/api",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "cerfa-publique-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
     "time": 95,
     "timeDay": 95,
     "timeWeek": 95,
     "timeMonth": 95,
     "timeYear": 95,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-19": 1
+    }
   }
 ]
