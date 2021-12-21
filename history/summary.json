@@ -207,9 +207,9 @@
     "url": "https://cfas.apprentissage.beta.gouv.fr/",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "flux-cfa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.85%",
     "uptimeYear": "99.26%",
@@ -219,6 +219,7 @@
     "timeMonth": 519,
     "timeYear": 628,
     "dailyMinutesDown": {
+      "2021-12-21": 0,
       "2021-12-13": 531,
       "2021-12-12": 1440,
       "2021-12-11": 238,
@@ -512,18 +513,18 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "cerfa-publique",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 471,
     "timeDay": 366,
     "timeWeek": 440,
     "timeMonth": 465,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2021-12-21": 0
+      "2021-12-21": 36
     }
   },
   {
@@ -532,18 +533,18 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "cerfa-publique-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 110,
     "timeDay": 94,
     "timeWeek": 113,
     "timeMonth": 109,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2021-12-21": 0
+      "2021-12-21": 36
     }
   }
 ]
