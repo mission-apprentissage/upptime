@@ -48,10 +48,10 @@ sites:
     url: https://referentiel.apprentissage.beta.gouv.fr/api/v1/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Cerfa publique
-    url: https://cerfa.apprentissage.beta.gouv.fr/
+    url: https://contrat.apprentissage.beta.gouv.fr/
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Cerfa publique API
-    url: https://cerfa.apprentissage.beta.gouv.fr/api
+    url: https://contrat.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
 
 status-website:
