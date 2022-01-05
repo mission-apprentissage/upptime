@@ -1,7 +1,7 @@
-url: https://cerfa.apprentissage.beta.gouv.fr/api
+url: https://contrat.apprentissage.beta.gouv.fr/api
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-01-04T23:19:12.622Z
+code: 502
+responseTime: 84
+lastUpdated: 2022-01-05T18:44:22.141Z
 startTime: Fri Nov 19 2021 16:06:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
