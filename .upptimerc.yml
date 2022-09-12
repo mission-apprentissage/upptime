@@ -63,10 +63,10 @@ sites:
     url: https://contrat.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
  - name: Trajectoires Pro - Widget API
-    url: https://trajectoires-pro.apprentissage.beta.gouv.fr/api/inserjeunes/certifications/32022317
+    url: https://trajectoires-pro.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
  - name: Trajectoires Pro Recette - Widget API
-    url: https://trajectoires-pro-recette.apprentissage.beta.gouv.fr/api/inserjeunes/certifications/32022317
+    url: https://trajectoires-pro-recette.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
     
 status-website:
