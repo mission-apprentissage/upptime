@@ -62,10 +62,10 @@ sites:
   - name: Cerfa publique API
     url: https://contrat.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
- - name: Trajectoires Pro - Widget API
+  - name: Trajectoires Pro - Widget API
     url: https://trajectoires-pro.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
- - name: Trajectoires Pro Recette - Widget API
+  - name: Trajectoires Pro Recette - Widget API
     url: https://trajectoires-pro-recette.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
     
