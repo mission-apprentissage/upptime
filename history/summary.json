@@ -170,19 +170,19 @@
     "url": "https://cfas.apprentissage.beta.gouv.fr/api/healthcheck",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "tableau-de-bord-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 111,
-    "timeWeek": 1417,
-    "timeMonth": 650,
-    "timeYear": 650,
+    "time": 624,
+    "timeDay": 107,
+    "timeWeek": 1271,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 13
     }
   },
   {
