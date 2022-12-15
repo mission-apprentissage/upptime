@@ -1,7 +1,7 @@
 url: https://matcha.apprentissage.beta.gouv.fr/api
-status: up
-code: 200
-responseTime: 658
-lastUpdated: 2022-12-15T07:30:37.980Z
+status: down
+code: 502
+responseTime: 1119
+lastUpdated: 2022-12-15T07:56:37.584Z
 startTime: Thu May 20 2021 15:34:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
