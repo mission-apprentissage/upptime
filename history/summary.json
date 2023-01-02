@@ -14,7 +14,7 @@
     "timeDay": 2147,
     "timeWeek": 1773,
     "timeMonth": 1685,
-    "timeYear": 968,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2022-07-18": 472
     }
@@ -54,7 +54,7 @@
     "timeDay": 999,
     "timeWeek": 909,
     "timeMonth": 912,
-    "timeYear": 1098,
+    "timeYear": 1100,
     "dailyMinutesDown": {
       "2022-08-24": 52,
       "2022-08-23": 28,
@@ -76,18 +76,19 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "la-bonne-alternance",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.78%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.85%",
     "time": 1180,
     "timeDay": 915,
     "timeWeek": 1133,
     "timeMonth": 1137,
-    "timeYear": 1174,
+    "timeYear": 1175,
     "dailyMinutesDown": {
-      "2023-01-01": 0,
+      "2023-01-02": 11,
+      "2023-01-01": 49,
       "2022-12-19": 59,
       "2022-12-15": 103,
       "2022-11-24": 25,
@@ -245,7 +246,7 @@
     "timeDay": 580,
     "timeWeek": 650,
     "timeMonth": 730,
-    "timeYear": 667,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2022-10-14": 1373,
       "2022-10-13": 1440,
@@ -314,7 +315,7 @@
     "timeDay": 162,
     "timeWeek": 141,
     "timeMonth": 194,
-    "timeYear": 139,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2022-12-15": 63,
       "2022-08-30": 201,
@@ -338,7 +339,7 @@
     "timeDay": 613,
     "timeWeek": 734,
     "timeMonth": 677,
-    "timeYear": 649,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2022-08-15": 5,
       "2022-08-14": 1440,
@@ -362,7 +363,7 @@
     "timeDay": 1058,
     "timeWeek": 710,
     "timeMonth": 693,
-    "timeYear": 641,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2022-07-25": 50,
       "2022-01-06": 30
@@ -383,7 +384,7 @@
     "timeDay": 614,
     "timeWeek": 651,
     "timeMonth": 698,
-    "timeYear": 618,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2022-12-15": 63,
       "2022-11-21": 37,
@@ -410,7 +411,7 @@
     "timeDay": 1456,
     "timeWeek": 1384,
     "timeMonth": 1423,
-    "timeYear": 759,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2022-10-18": 612,
       "2022-10-17": 368,
@@ -427,7 +428,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "97.61%",
+    "uptimeYear": "97.62%",
     "time": 1235,
     "timeDay": 2261,
     "timeWeek": 1812,
@@ -454,8 +455,7 @@
       "2022-01-17": 22,
       "2022-01-05": 1124,
       "2022-01-04": 1440,
-      "2022-01-03": 1440,
-      "2022-01-02": 1440
+      "2022-01-03": 1440
     }
   },
   {
@@ -468,7 +468,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.39%",
+    "uptimeYear": "96.40%",
     "time": 160,
     "timeDay": 284,
     "timeWeek": 237,
@@ -503,8 +503,7 @@
       "2022-01-06": 592,
       "2022-01-05": 1440,
       "2022-01-04": 1440,
-      "2022-01-03": 1440,
-      "2022-01-02": 1440
+      "2022-01-03": 1440
     }
   },
   {
@@ -513,11 +512,11 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "trajectoires-pro-widget-api",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.09%",
+    "uptimeYear": "98.10%",
     "time": 654,
     "timeDay": 623,
     "timeWeek": 685,
