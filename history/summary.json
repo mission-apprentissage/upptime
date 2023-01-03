@@ -188,52 +188,6 @@
     }
   },
   {
-    "name": "Partage simplifié",
-    "url": "https://partage-simplifie.apprentissage.beta.gouv.fr/",
-    "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
-    "slug": "partage-simplifie",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 827,
-    "timeDay": 699,
-    "timeWeek": 829,
-    "timeMonth": 782,
-    "timeYear": 827,
-    "dailyMinutesDown": {
-      "2023-01-03": 1,
-      "2022-11-21": 37,
-      "2022-10-31": 40,
-      "2022-10-03": 32
-    }
-  },
-  {
-    "name": "Partage simplifié API",
-    "url": "https://partage-simplifie.apprentissage.beta.gouv.fr/api/healthcheck",
-    "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
-    "slug": "partage-simplifie-api",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 149,
-    "timeDay": 170,
-    "timeWeek": 152,
-    "timeMonth": 142,
-    "timeYear": 149,
-    "dailyMinutesDown": {
-      "2023-01-03": 1,
-      "2022-11-21": 37,
-      "2022-10-31": 40,
-      "2022-10-03": 32
-    }
-  },
-  {
     "name": "Sirius",
     "url": "https://sirius.apprentissage.beta.gouv.fr/",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
