@@ -1,7 +1,7 @@
 url: https://rdv-cfa.apprentissage.beta.gouv.fr/api
-status: down
-code: 502
-responseTime: 152
-lastUpdated: 2023-02-07T22:39:17.214Z
+status: up
+code: 200
+responseTime: 92
+lastUpdated: 2023-02-07T22:45:40.323Z
 startTime: Thu Jan 21 2021 16:29:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
