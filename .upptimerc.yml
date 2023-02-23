@@ -35,24 +35,12 @@ sites:
     url: https://sirius.apprentissage.beta.gouv.fr/
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
     __dangerous__insecure: true
-  - name: Prise de rendez-vous 
-    url: https://rdv-cfa.apprentissage.beta.gouv.fr/
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  # - name: Prise de rendez-vous recette
-  #   url: https://rdv-cfa-recette.apprentissage.beta.gouv.fr/
-  #   icon: https://catalogue.apprentissage.beta.gouv.fr/brand/marianne.png
-  - name: Prise de rendez-vous API
-    url: https://rdv-cfa.apprentissage.beta.gouv.fr/api
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: API Tables de correspondances
     url: https://tables-correspondances.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: API Tables de correspondances recette
     url: https://tables-correspondances-recette.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name : API Matcha
-    url : https://matcha.apprentissage.beta.gouv.fr/api
-    icon : https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: API Referentiel
     url: https://referentiel.apprentissage.beta.gouv.fr/api/v1/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
