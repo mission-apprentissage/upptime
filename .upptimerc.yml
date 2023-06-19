@@ -25,12 +25,6 @@ sites:
   - name: Tableau de bord API
     url: https://cfas.apprentissage.beta.gouv.fr/api/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Partage simplifié
-    url: https://partage-simplifie.apprentissage.beta.gouv.fr/
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Partage simplifié API
-    url: https://partage-simplifie.apprentissage.beta.gouv.fr/api/healthcheck
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Sirius
     url: https://sirius.apprentissage.beta.gouv.fr/
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
