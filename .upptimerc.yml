@@ -56,6 +56,12 @@ sites:
   - name: Trajectoires Pro Recette - Widget API
     url: https://trajectoires-pro-recette.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: BAL production
+    url: https://bal.apprentissage.beta.gouv.fr/
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: BAL production - API
+    url: https://bal.apprentissage.beta.gouv.fr/api/healthcheck
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
