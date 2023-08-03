@@ -56,6 +56,12 @@ sites:
   - name: BAL production - API
     url: https://bal.apprentissage.beta.gouv.fr/api/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: SENTRY mission
+    url: https://sentry.apprentissage.beta.gouv.fr/_health
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: Monitoring mission
+    url: https://monitoring.apprentissage.beta.gouv.fr/api/health
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
