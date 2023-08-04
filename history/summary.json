@@ -516,37 +516,39 @@
     "url": "https://sentry.apprentissage.beta.gouv.fr/_health",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "sentry-mission",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 634,
     "timeDay": 634,
     "timeWeek": 634,
     "timeMonth": 634,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-04": 1
+    }
   },
   {
     "name": "Monitoring mission",
     "url": "https://monitoring.apprentissage.beta.gouv.fr/api/health",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "monitoring-mission",
-    "status": "up",
-    "uptime": "98.10%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "98.10%",
+    "status": "down",
+    "uptime": "98.08%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
     "time": 602,
     "timeDay": 602,
     "timeWeek": 602,
     "timeMonth": 602,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2023-08-04": 20
+      "2023-08-04": 21
     }
   }
 ]
