@@ -1,7 +1,7 @@
 url: https://sentry.apprentissage.beta.gouv.fr/_health
 status: down
 code: 404
-responseTime: 804
-lastUpdated: 2023-08-11T23:04:53.110Z
+responseTime: 651
+lastUpdated: 2023-08-12T23:04:36.243Z
 startTime: Thu Aug 03 2023 14:31:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
