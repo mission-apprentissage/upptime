@@ -1,7 +1,7 @@
 url: https://trajectoires-pro.apprentissage.beta.gouv.fr/api
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-13T12:47:50.774Z
+status: up
+code: 200
+responseTime: 693
+lastUpdated: 2023-09-13T14:22:47.135Z
 startTime: 2022-09-19T08:04:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
