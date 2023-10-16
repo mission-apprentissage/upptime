@@ -4,14 +4,23 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Catalogue
-    url: https://catalogue.apprentissage.beta.gouv.fr/
+  - name: Catalogue RCO
+    url: https://catalogue-apprentissage.intercariforef.org/
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Stats catalogue
-    url: https://catalogue.apprentissage.beta.gouv.fr/stats
+  - name: Stats catalogue RCO
+    url: https://catalogue-apprentissage.intercariforef.org/stats
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Catalogue API
-    url: https://catalogue.apprentissage.beta.gouv.fr/api
+  - name: Catalogue RCO API
+    url: https://catalogue-apprentissage.intercariforef.org/api
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: Catalogue DNE
+    url: https://catalogue.apprentissage.education.gouv.fr/
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: Stats catalogue DNE
+    url: https://catalogue.apprentissage.education.gouv.fr/stats
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: Catalogue RCO DNE
+    url: https://catalogue.apprentissage.education.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: La bonne alternance
     url: https://labonnealternance.apprentissage.beta.gouv.fr/
