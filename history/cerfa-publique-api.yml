@@ -1,7 +1,7 @@
 url: https://contrat.apprentissage.beta.gouv.fr/api
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-08T10:11:36.678Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2023-11-08T10:21:10.845Z
 startTime: 2021-11-19T16:06:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
