@@ -1,7 +1,7 @@
 url: https://cfas.apprentissage.beta.gouv.fr/api/healthcheck
-status: up
-code: 200
-responseTime: 108
-lastUpdated: 2023-12-13T23:05:02.108Z
+status: down
+code: 503
+responseTime: 90
+lastUpdated: 2023-12-14T13:37:04.248Z
 startTime: 2021-01-21T16:29:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
