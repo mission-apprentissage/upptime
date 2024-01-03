@@ -1,7 +1,7 @@
 url: https://trajectoires-pro-recette.apprentissage.beta.gouv.fr/api
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-03T22:52:25.998Z
+status: up
+code: 200
+responseTime: 777
+lastUpdated: 2024-01-03T22:57:47.814Z
 startTime: 2022-09-19T08:04:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
