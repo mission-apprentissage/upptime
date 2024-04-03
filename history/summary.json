@@ -253,9 +253,9 @@
     "slug": "api-tables-de-correspondances-recette",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 700,
     "timeDay": 631,
@@ -263,7 +263,7 @@
     "timeMonth": 637,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2024-04-03": 1,
+      "2024-04-03": 4,
       "2023-11-27": 16
     }
   },
@@ -325,7 +325,7 @@
     "uptime": "94.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "33.00%",
+    "uptimeMonth": "32.99%",
     "uptimeYear": "94.41%",
     "time": 260,
     "timeDay": 158,
@@ -333,7 +333,7 @@
     "timeMonth": 157,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-04-03": 9,
+      "2024-04-03": 12,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
@@ -375,7 +375,7 @@
     "timeMonth": 0,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2024-04-03": 9,
+      "2024-04-03": 12,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
@@ -475,7 +475,7 @@
     "timeMonth": 0,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-04-03": 9,
+      "2024-04-03": 12,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
