@@ -416,19 +416,17 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "percona-mission",
     "status": "up",
-    "uptime": "7.31%",
-    "uptimeDay": "7.31%",
-    "uptimeWeek": "7.31%",
-    "uptimeMonth": "7.31%",
-    "uptimeYear": "7.31%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1158,
     "timeDay": 1158,
     "timeWeek": 1158,
     "timeMonth": 1158,
     "timeYear": 1158,
-    "dailyMinutesDown": {
-      "2024-04-26": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Apprentissage production",
@@ -454,19 +452,17 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "api-apprentissage-production-api",
     "status": "up",
-    "uptime": "7.05%",
-    "uptimeDay": "7.05%",
-    "uptimeWeek": "7.05%",
-    "uptimeMonth": "7.05%",
-    "uptimeYear": "7.05%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 109,
     "timeDay": 109,
     "timeWeek": 109,
     "timeMonth": 109,
     "timeYear": 109,
-    "dailyMinutesDown": {
-      "2024-04-26": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Apprentissage recette",
@@ -492,19 +488,17 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "api-apprentissage-recette-api",
     "status": "up",
-    "uptime": "6.64%",
-    "uptimeDay": "6.64%",
-    "uptimeWeek": "6.64%",
-    "uptimeMonth": "6.64%",
-    "uptimeYear": "6.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 110,
     "timeDay": 110,
     "timeWeek": 110,
     "timeMonth": 110,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2024-04-26": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Contrat production",
@@ -530,19 +524,17 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "contrat-production-api",
     "status": "up",
-    "uptime": "6.13%",
-    "uptimeDay": "6.13%",
-    "uptimeWeek": "6.13%",
-    "uptimeMonth": "6.13%",
-    "uptimeYear": "6.13%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 105,
     "timeDay": 105,
     "timeWeek": 105,
     "timeMonth": 105,
     "timeYear": 105,
-    "dailyMinutesDown": {
-      "2024-04-26": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Contrat recette",
@@ -568,11 +560,11 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "contrat-recette-api",
     "status": "up",
-    "uptime": "5.68%",
-    "uptimeDay": "5.68%",
-    "uptimeWeek": "5.68%",
-    "uptimeMonth": "5.68%",
-    "uptimeYear": "5.68%",
+    "uptime": "11.21%",
+    "uptimeDay": "11.21%",
+    "uptimeWeek": "11.21%",
+    "uptimeMonth": "11.21%",
+    "uptimeYear": "11.21%",
     "time": 109,
     "timeDay": 109,
     "timeWeek": 109,
