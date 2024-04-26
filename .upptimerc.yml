@@ -38,18 +38,6 @@ sites:
   - name: API Referentiel
     url: https://referentiel.apprentissage.beta.gouv.fr/api/v1/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Cerfa publique
-    url: https://contrat.apprentissage.beta.gouv.fr/
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Cerfa publique API
-    url: https://contrat.apprentissage.beta.gouv.fr/api
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Trajectoires Pro - Widget API
-    url: https://trajectoires-pro.apprentissage.beta.gouv.fr/api
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Trajectoires Pro Recette - Widget API
-    url: https://trajectoires-pro-recette.apprentissage.beta.gouv.fr/api
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: BAL production
     url: https://bal.apprentissage.beta.gouv.fr/
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
@@ -63,31 +51,31 @@ sites:
     url: https://monitoring.apprentissage.beta.gouv.fr/api/health
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Percona mission
-    url: https://percona.apprentissage.beta.gouv.fr/api/health
+    url: https://percona.apprentissage.beta.gouv.fr/
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: API Apprentissage production
     url: https://api.apprentissage.beta.gouv.fr/
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: API Apprentissage production - API
-    url: https://api.apprentissage.beta.gouv.fr/api/health
+    url: https://api.apprentissage.beta.gouv.fr/api/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: API Apprentissage recette
     url: https://api-recette.apprentissage.beta.gouv.fr/
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: API Apprentissage recette - API
-    url: https://api-recette.apprentissage.beta.gouv.fr/api/health
+    url: https://api-recette.apprentissage.beta.gouv.fr/api/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Contrat production
     url: https://contrat.apprentissage.beta.gouv.fr/
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Contrat production - API
-    url: https://contrat.apprentissage.beta.gouv.fr/api/health
+    url: https://contrat.apprentissage.beta.gouv.fr/api/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Contrat recette
     url: https://contrat-recette.apprentissage.beta.gouv.fr/
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Contrat recette - API
-    url: https://contrat-recette.apprentissage.beta.gouv.fr/api/health
+    url: https://contrat-recette.apprentissage.beta.gouv.fr/api/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
     
 status-website:
