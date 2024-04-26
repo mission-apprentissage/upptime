@@ -329,7 +329,7 @@
     "timeMonth": 113,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2024-04-26": 1315,
+      "2024-04-26": 1316,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -394,7 +394,7 @@
     "timeMonth": 0,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2024-04-26": 1315,
+      "2024-04-26": 1316,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -517,7 +517,7 @@
     "timeMonth": 0,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2024-04-26": 1315,
+      "2024-04-26": 1316,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -686,19 +686,19 @@
     "url": "https://sentry.apprentissage.beta.gouv.fr/_health",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "sentry-mission",
-    "status": "down",
+    "status": "up",
     "uptime": "95.08%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "99.52%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "95.08%",
     "time": 1205,
-    "timeDay": 718,
-    "timeWeek": 717,
-    "timeMonth": 670,
+    "timeDay": 828,
+    "timeWeek": 760,
+    "timeMonth": 685,
     "timeYear": 1205,
     "dailyMinutesDown": {
-      "2024-04-26": 48,
+      "2024-04-26": 49,
       "2024-04-03": 82,
       "2024-03-27": 34,
       "2024-01-19": 357,
@@ -729,19 +729,19 @@
     "url": "https://monitoring.apprentissage.beta.gouv.fr/api/health",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "monitoring-mission",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "98.68%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "98.67%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.76%",
-    "time": 804,
-    "timeDay": 599,
-    "timeWeek": 580,
-    "timeMonth": 529,
-    "timeYear": 804,
+    "time": 803,
+    "timeDay": 563,
+    "timeWeek": 566,
+    "timeMonth": 526,
+    "timeYear": 803,
     "dailyMinutesDown": {
-      "2024-04-26": 48,
+      "2024-04-26": 49,
       "2024-04-23": 85,
       "2024-03-27": 34,
       "2024-01-19": 357,
@@ -759,18 +759,18 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "percona-mission",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-26": 2
+      "2024-04-26": 3
     }
   },
   {
@@ -797,18 +797,18 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "api-apprentissage-production-api",
     "status": "down",
-    "uptime": "1.01%",
-    "uptimeDay": "1.01%",
-    "uptimeWeek": "1.01%",
-    "uptimeMonth": "1.01%",
-    "uptimeYear": "1.01%",
+    "uptime": "0.21%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.21%",
+    "uptimeMonth": "0.21%",
+    "uptimeYear": "0.21%",
     "time": 110,
     "timeDay": 110,
     "timeWeek": 110,
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-04-26": 2
+      "2024-04-26": 3
     }
   },
   {
@@ -835,18 +835,18 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "api-apprentissage-recette-api",
     "status": "down",
-    "uptime": "0.31%",
-    "uptimeDay": "0.31%",
-    "uptimeWeek": "0.31%",
-    "uptimeMonth": "0.31%",
-    "uptimeYear": "0.31%",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
     "time": 112,
     "timeDay": 112,
     "timeWeek": 112,
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-04-26": 2
+      "2024-04-26": 3
     }
   },
   {
@@ -873,18 +873,18 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "contrat-production-api",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 105,
     "timeDay": 105,
     "timeWeek": 105,
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-04-26": 2
+      "2024-04-26": 3
     }
   },
   {
@@ -911,18 +911,18 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "contrat-recette-api",
     "status": "down",
-    "uptime": "0.20%",
-    "uptimeDay": "0.20%",
-    "uptimeWeek": "0.20%",
-    "uptimeMonth": "0.20%",
-    "uptimeYear": "0.20%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 107,
     "timeDay": 107,
     "timeWeek": 107,
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-04-26": 2
+      "2024-04-26": 3
     }
   }
 ]
