@@ -1,7 +1,7 @@
 url: https://monitoring.apprentissage.beta.gouv.fr/api/health
 status: up
 code: 200
-responseTime: 419
-lastUpdated: 2024-04-26T21:55:40.536Z
+responseTime: 429
+lastUpdated: 2024-04-26T22:02:36.590Z
 startTime: 2023-08-03T14:31:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
