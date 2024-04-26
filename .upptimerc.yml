@@ -62,6 +62,33 @@ sites:
   - name: Monitoring mission
     url: https://monitoring.apprentissage.beta.gouv.fr/api/health
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: Percona mission
+    url: https://percona.apprentissage.beta.gouv.fr/api/health
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: API Apprentissage production
+    url: https://api.apprentissage.beta.gouv.fr/
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: API Apprentissage production - API
+    url: https://api.apprentissage.beta.gouv.fr/api/health
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: API Apprentissage recette
+    url: https://api-recette.apprentissage.beta.gouv.fr/
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: API Apprentissage recette - API
+    url: https://api-recette.apprentissage.beta.gouv.fr/api/health
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: Contrat production
+    url: https://contrat.apprentissage.beta.gouv.fr/
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: Contrat production - API
+    url: https://contrat.apprentissage.beta.gouv.fr/api/health
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: Contrat recette
+    url: https://contrat-recette.apprentissage.beta.gouv.fr/
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
+  - name: Contrat recette - API
+    url: https://contrat-recette.apprentissage.beta.gouv.fr/api/health
+    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
