@@ -83,7 +83,7 @@ status-website:
   # cname: /upptime
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://api.apprentissage.beta.gouv.fr/images/marianne.svg
+  logoUrl: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   favicon: https://api.apprentissage.beta.gouv.fr/favicon.ico
   faviconSvg: https://api.apprentissage.beta.gouv.fr/favicon.svg
   name: Mission-apprentissage Uptime
