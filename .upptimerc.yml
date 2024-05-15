@@ -53,10 +53,10 @@ sites:
   - name: Percona mission
     url: https://percona.apprentissage.beta.gouv.fr/
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: API Apprentissage production
+  - name: API Apprentissage - UI
     url: https://api.apprentissage.beta.gouv.fr/
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: API Apprentissage production - API
+  - name: API Apprentissage - API
     url: https://api.apprentissage.beta.gouv.fr/api/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: API Apprentissage recette
@@ -83,7 +83,9 @@ status-website:
   # cname: /upptime
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://api.apprentissage.beta.gouv.fr/images/marianne.svg
+  favicon: https://api.apprentissage.beta.gouv.fr/favicon.ico
+  faviconSvg: https://api.apprentissage.beta.gouv.fr/favicon.svg
   name: Mission-apprentissage Uptime
   introTitle: "**Mission apprentissage** statuts des services"
   introMessage: Cette page de status vous donne des informations en temps-réel du niveau de disponibilité de nos services.
