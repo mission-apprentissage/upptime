@@ -1,7 +1,7 @@
 url: https://api-recette.apprentissage.beta.gouv.fr/
-status: up
-code: 200
-responseTime: 708
-lastUpdated: 2024-05-21T23:05:52.652Z
+status: down
+code: 503
+responseTime: 653
+lastUpdated: 2024-05-22T13:45:32.876Z
 startTime: 2024-04-26T21:53:08.441Z
 generator: Upptime <https://github.com/upptime/upptime>
