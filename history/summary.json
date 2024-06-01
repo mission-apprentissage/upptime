@@ -472,19 +472,19 @@
     "url": "https://api-recette.apprentissage.beta.gouv.fr/",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "api-apprentissage-recette",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1219,
-    "timeDay": 2026,
-    "timeWeek": 2256,
-    "timeMonth": 1281,
+    "timeDay": 1763,
+    "timeWeek": 2143,
+    "timeMonth": 1280,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2024-06-01": 1
+      "2024-06-01": 7
     }
   },
   {
@@ -492,19 +492,19 @@
     "url": "https://api-recette.apprentissage.beta.gouv.fr/api/healthcheck",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "api-apprentissage-recette-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 132,
-    "timeWeek": 121,
-    "timeMonth": 128,
-    "timeYear": 127,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 126,
+    "timeDay": 116,
+    "timeWeek": 117,
+    "timeMonth": 127,
+    "timeYear": 126,
     "dailyMinutesDown": {
-      "2024-06-01": 1
+      "2024-06-01": 7
     }
   },
   {
