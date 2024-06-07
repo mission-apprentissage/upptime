@@ -19,7 +19,7 @@ sites:
   - name: Stats catalogue DNE
     url: https://catalogue.apprentissage.education.gouv.fr/stats
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Catalogue RCO DNE
+  - name: Catalogue DNE API
     url: https://catalogue.apprentissage.education.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: La bonne alternance
