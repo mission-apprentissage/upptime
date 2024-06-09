@@ -1,7 +1,7 @@
 url: https://api-recette.apprentissage.beta.gouv.fr/api/healthcheck
 status: up
 code: 200
-responseTime: 92
-lastUpdated: 2024-06-08T23:05:32.461Z
+responseTime: 157
+lastUpdated: 2024-06-09T23:05:23.038Z
 startTime: 2024-04-26T21:53:09.511Z
 generator: Upptime <https://github.com/upptime/upptime>
