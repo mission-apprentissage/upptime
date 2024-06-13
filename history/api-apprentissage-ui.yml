@@ -1,7 +1,7 @@
 url: https://api.apprentissage.beta.gouv.fr/
-status: down
-code: 503
-responseTime: 540
-lastUpdated: 2024-06-13T21:26:59.722Z
+status: up
+code: 200
+responseTime: 1324
+lastUpdated: 2024-06-13T21:40:17.048Z
 startTime: 2024-05-15T09:28:41.244Z
 generator: Upptime <https://github.com/upptime/upptime>
