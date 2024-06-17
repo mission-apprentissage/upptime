@@ -1,7 +1,7 @@
 url: https://sirius.apprentissage.beta.gouv.fr/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-17T00:27:12.813Z
+status: up
+code: 200
+responseTime: 2577
+lastUpdated: 2024-06-17T06:58:58.381Z
 startTime: 2021-01-21T16:29:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
