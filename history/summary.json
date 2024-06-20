@@ -450,19 +450,19 @@
     "url": "https://api.apprentissage.beta.gouv.fr/",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "api-apprentissage-ui",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 940,
-    "timeDay": 763,
-    "timeWeek": 982,
-    "timeMonth": 947,
-    "timeYear": 940,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.95%",
+    "time": 946,
+    "timeDay": 916,
+    "timeWeek": 1000,
+    "timeMonth": 954,
+    "timeYear": 946,
     "dailyMinutesDown": {
-      "2024-06-20": 1
+      "2024-06-20": 29
     }
   },
   {
@@ -470,19 +470,19 @@
     "url": "https://api.apprentissage.beta.gouv.fr/api/healthcheck",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "api-apprentissage-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 89,
-    "timeWeek": 128,
-    "timeMonth": 116,
-    "timeYear": 118,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.95%",
+    "time": 119,
+    "timeDay": 112,
+    "timeWeek": 130,
+    "timeMonth": 117,
+    "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-06-20": 1
+      "2024-06-20": 29
     }
   },
   {
