@@ -1,7 +1,7 @@
 url: https://labonnealternance.apprentissage.beta.gouv.fr/
-status: down
-code: 503
-responseTime: 709
-lastUpdated: 2024-07-11T21:29:20.835Z
+status: up
+code: 200
+responseTime: 719
+lastUpdated: 2024-07-11T21:36:11.562Z
 startTime: 2021-01-21T16:29:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
