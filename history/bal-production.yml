@@ -1,7 +1,7 @@
 url: https://bal.apprentissage.beta.gouv.fr/
-status: up
-code: 200
-responseTime: 757
-lastUpdated: 2024-07-16T23:05:13.000Z
+status: down
+code: 502
+responseTime: 709
+lastUpdated: 2024-07-17T13:22:40.800Z
 startTime: 2023-06-19T09:32:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
