@@ -1,7 +1,7 @@
 url: https://contrat.apprentissage.beta.gouv.fr/api/healthcheck
 status: down
 code: 500
-responseTime: 4167
-lastUpdated: 2024-07-30T23:05:53.117Z
+responseTime: 166
+lastUpdated: 2024-07-31T23:05:45.371Z
 startTime: 2024-04-26T21:53:12.524Z
 generator: Upptime <https://github.com/upptime/upptime>
