@@ -1,7 +1,7 @@
 url: https://bal.apprentissage.beta.gouv.fr/api/healthcheck
 status: up
 code: 200
-responseTime: 103
-lastUpdated: 2024-08-18T23:05:34.230Z
+responseTime: 155
+lastUpdated: 2024-08-19T23:06:01.940Z
 startTime: 2023-06-19T09:32:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
