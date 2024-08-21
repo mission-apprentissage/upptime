@@ -1,7 +1,7 @@
 url: https://sentry.apprentissage.beta.gouv.fr/_health
 status: up
 code: 200
-responseTime: 927
-lastUpdated: 2024-08-20T23:06:08.235Z
+responseTime: 870
+lastUpdated: 2024-08-21T23:05:11.355Z
 startTime: 2023-08-03T14:31:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
