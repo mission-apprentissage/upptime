@@ -1,7 +1,7 @@
 url: https://catalogue.apprentissage.beta.gouv.fr/stats
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-22T16:40:57.180Z
+status: up
+code: 200
+responseTime: 7602
+lastUpdated: 2024-09-22T17:00:02.595Z
 startTime: 2021-08-10T12:32:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
