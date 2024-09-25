@@ -1,7 +1,7 @@
 url: https://catalogue.apprentissage.beta.gouv.fr/api
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-25T02:12:13.543Z
+status: up
+code: 200
+responseTime: 5000
+lastUpdated: 2024-09-25T03:37:17.532Z
 startTime: 2021-01-21T13:52:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
