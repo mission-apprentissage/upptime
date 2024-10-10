@@ -1,7 +1,7 @@
 url: https://tables-correspondances.apprentissage.beta.gouv.fr/api
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-10T05:38:56.977Z
+status: up
+code: 200
+responseTime: 1068
+lastUpdated: 2024-10-10T05:43:48.146Z
 startTime: 2021-01-21T13:52:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
