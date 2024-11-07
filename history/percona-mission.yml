@@ -1,7 +1,7 @@
 url: https://percona.apprentissage.beta.gouv.fr/
-status: down
-code: 503
-responseTime: 547
-lastUpdated: 2024-11-07T13:18:45.615Z
+status: up
+code: 200
+responseTime: 1306
+lastUpdated: 2024-11-07T13:29:17.293Z
 startTime: 2024-04-26T21:53:02.668Z
 generator: Upptime <https://github.com/upptime/upptime>
