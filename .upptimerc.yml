@@ -4,12 +4,6 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Catalogue
-    url: https://catalogue.apprentissage.beta.gouv.fr/
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Stats catalogue
-    url: https://catalogue.apprentissage.beta.gouv.fr/stats
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Catalogue API
     url: https://catalogue.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
@@ -24,16 +18,6 @@ sites:
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Tableau de bord API
     url: https://cfas.apprentissage.beta.gouv.fr/api/healthcheck
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Sirius
-    url: https://sirius.apprentissage.beta.gouv.fr/
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-    __dangerous__insecure: true
-  - name: API Tables de correspondances
-    url: https://tables-correspondances.apprentissage.beta.gouv.fr/api
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: API Tables de correspondances recette
-    url: https://tables-correspondances-recette.apprentissage.beta.gouv.fr/api
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: API Referentiel
     url: https://referentiel.apprentissage.beta.gouv.fr/api/v1/healthcheck
@@ -59,23 +43,11 @@ sites:
   - name: API Apprentissage - API
     url: https://api.apprentissage.beta.gouv.fr/api/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: API Apprentissage recette
-    url: https://api-recette.apprentissage.beta.gouv.fr/
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: API Apprentissage recette - API
-    url: https://api-recette.apprentissage.beta.gouv.fr/api/healthcheck
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Contrat production
     url: https://contrat.apprentissage.beta.gouv.fr/
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   - name: Contrat production - API
     url: https://contrat.apprentissage.beta.gouv.fr/api/healthcheck
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Contrat recette
-    url: https://contrat-recette.apprentissage.beta.gouv.fr/
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Contrat recette - API
-    url: https://contrat-recette.apprentissage.beta.gouv.fr/api/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
     
 status-website:
