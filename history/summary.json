@@ -343,11 +343,11 @@
     "url": "https://api.apprentissage.beta.gouv.fr/",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "api-apprentissage-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1422,
     "timeDay": 14369,
@@ -355,7 +355,7 @@
     "timeMonth": 3451,
     "timeYear": 1422,
     "dailyMinutesDown": {
-      "2024-11-27": 5,
+      "2024-11-27": 1,
       "2024-08-17": 21,
       "2024-06-20": 29
     }
@@ -408,7 +408,7 @@
     "uptime": "93.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.54%",
+    "uptimeMonth": "89.56%",
     "uptimeYear": "93.09%",
     "time": 136,
     "timeDay": 162,
