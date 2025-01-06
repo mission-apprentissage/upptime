@@ -1,7 +1,7 @@
 url: https://cfas.apprentissage.beta.gouv.fr/
-status: down
-code: 503
-responseTime: 644
-lastUpdated: 2025-01-06T08:33:10.947Z
+status: up
+code: 200
+responseTime: 1167
+lastUpdated: 2025-01-06T08:42:12.766Z
 startTime: 2021-01-21T16:29:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
