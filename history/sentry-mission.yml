@@ -1,7 +1,7 @@
 url: https://sentry.apprentissage.beta.gouv.fr/_health
-status: down
-code: 502
-responseTime: 782
-lastUpdated: 2025-01-28T23:05:19.414Z
+status: up
+code: 200
+responseTime: 874
+lastUpdated: 2025-01-28T23:20:35.996Z
 startTime: 2023-08-03T14:31:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
