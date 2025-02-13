@@ -1,7 +1,7 @@
 url: https://labonnealternance.apprentissage.beta.gouv.fr/api
-status: down
-code: 503
-responseTime: 92
-lastUpdated: 2025-02-13T08:41:38.443Z
+status: up
+code: 200
+responseTime: 101
+lastUpdated: 2025-02-13T08:49:42.851Z
 startTime: 2021-01-21T16:29:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
