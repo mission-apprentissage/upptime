@@ -1,8 +1,9 @@
-# Change these first
-owner: mission-apprentissage # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: mission-apprentissage
+repo: upptime
+assignees:
+  - m-a-t-h-i-e-u
+  - kevbarns
 
-# Add your sites here
 sites:
   - name: Catalogue API
     url: https://catalogue.apprentissage.beta.gouv.fr/api
@@ -51,9 +52,6 @@ sites:
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
     
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: /upptime
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
   favicon: https://api.apprentissage.beta.gouv.fr/favicon.ico
@@ -66,6 +64,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
