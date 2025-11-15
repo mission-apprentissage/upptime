@@ -341,9 +341,9 @@
     "slug": "contrat-production",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 727,
     "timeDay": 930,
@@ -351,7 +351,6 @@
     "timeMonth": 786,
     "timeYear": 772,
     "dailyMinutesDown": {
-      "2025-11-14": 9,
       "2025-09-24": 120,
       "2025-04-17": 33
     }
@@ -363,9 +362,9 @@
     "slug": "contrat-production-api",
     "status": "up",
     "uptime": "97.37%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 136,
     "timeDay": 133,
@@ -373,7 +372,6 @@
     "timeMonth": 123,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-11-14": 9,
       "2025-09-24": 86,
       "2025-04-17": 33
     }
