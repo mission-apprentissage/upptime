@@ -339,10 +339,10 @@
     "url": "https://contrat.apprentissage.beta.gouv.fr/",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "contrat-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 729,
@@ -351,6 +351,7 @@
     "timeMonth": 756,
     "timeYear": 773,
     "dailyMinutesDown": {
+      "2025-11-22": 1,
       "2025-09-24": 120,
       "2025-04-17": 33
     }
@@ -360,10 +361,10 @@
     "url": "https://contrat.apprentissage.beta.gouv.fr/api/healthcheck",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "contrat-production-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 137,
@@ -372,6 +373,7 @@
     "timeMonth": 125,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2025-11-22": 1,
       "2025-09-24": 86,
       "2025-04-17": 33
     }
