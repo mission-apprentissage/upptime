@@ -303,7 +303,7 @@
     "timeDay": 1825,
     "timeWeek": 1392,
     "timeMonth": 1416,
-    "timeYear": 1402,
+    "timeYear": 1383,
     "dailyMinutesDown": {
       "2025-09-24": 135,
       "2025-04-17": 34,
@@ -325,7 +325,7 @@
     "timeDay": 151,
     "timeWeek": 190,
     "timeMonth": 140,
-    "timeYear": 209,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2025-09-24": 120,
       "2025-04-17": 34,
@@ -337,19 +337,19 @@
     "url": "https://contrat.apprentissage.beta.gouv.fr/",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "contrat-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 734,
+    "time": 735,
     "timeDay": 808,
     "timeWeek": 700,
     "timeMonth": 737,
     "timeYear": 771,
     "dailyMinutesDown": {
-      "2025-11-27": 26,
+      "2025-11-27": 18,
       "2025-09-24": 120,
       "2025-04-17": 33
     }
@@ -359,11 +359,11 @@
     "url": "https://contrat.apprentissage.beta.gouv.fr/api/healthcheck",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "contrat-production-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.43%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 138,
     "timeDay": 134,
@@ -371,7 +371,7 @@
     "timeMonth": 125,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-11-27": 25,
+      "2025-11-27": 18,
       "2025-09-24": 86,
       "2025-04-17": 33
     }
