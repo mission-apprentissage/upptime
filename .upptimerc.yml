@@ -44,12 +44,6 @@ sites:
   - name: API Apprentissage - API
     url: https://api.apprentissage.beta.gouv.fr/api/healthcheck
     icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Contrat production
-    url: https://contrat.apprentissage.beta.gouv.fr/
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
-  - name: Contrat production - API
-    url: https://contrat.apprentissage.beta.gouv.fr/api/healthcheck
-    icon: https://avatars3.githubusercontent.com/u/7874148?s=400&v=4
     
 status-website:
   baseUrl: /upptime
