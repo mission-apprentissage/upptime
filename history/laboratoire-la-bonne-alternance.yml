@@ -1,7 +1,7 @@
 url: https://lab.apprentissage.beta.gouv.fr/
-status: up
-code: 200
-responseTime: 1117
-lastUpdated: 2026-04-29T23:20:49.628Z
+status: down
+code: 500
+responseTime: 952
+lastUpdated: 2026-04-30T21:01:23.892Z
 startTime: 2025-10-27T16:27:33.924Z
 generator: Upptime <https://github.com/upptime/upptime>
