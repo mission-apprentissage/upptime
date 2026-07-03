@@ -184,17 +184,17 @@
     "url": "https://sentry.apprentissage.beta.gouv.fr/_health",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "sentry-mission",
-    "status": "down",
-    "uptime": "98.36%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.30%",
+    "status": "up",
+    "uptime": "98.35%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.29%",
     "time": 1370,
-    "timeDay": 15608,
-    "timeWeek": 4073,
-    "timeMonth": 2025,
-    "timeYear": 1555,
+    "timeDay": 10792,
+    "timeWeek": 3808,
+    "timeMonth": 1999,
+    "timeYear": 1554,
     "dailyMinutesDown": {
       "2025-09-24": 137,
       "2025-11-05": 20,
@@ -207,7 +207,7 @@
       "2026-01-28": 58,
       "2026-02-17": 21,
       "2026-06-30": 46,
-      "2026-07-03": 1
+      "2026-07-03": 70
     }
   },
   {
