@@ -4,9 +4,9 @@
     "url": "https://lab.apprentissage.beta.gouv.fr/",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "laboratoire-la-bonne-alternance",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.55%",
@@ -26,7 +26,8 @@
       "2026-02-28": 452,
       "2026-03-03": 502,
       "2026-05-01": 471,
-      "2026-04-30": 179
+      "2026-04-30": 179,
+      "2026-08-22": 0
     }
   },
   {
@@ -219,7 +220,7 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "monitoring-mission",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
