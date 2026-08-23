@@ -1,37 +1,5 @@
 [
   {
-    "name": "Laboratoire La bonne alternance",
-    "url": "https://lab.apprentissage.beta.gouv.fr/",
-    "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
-    "slug": "laboratoire-la-bonne-alternance",
-    "status": "down",
-    "uptime": "98.47%",
-    "uptimeDay": "73.22%",
-    "uptimeWeek": "96.17%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "98.47%",
-    "time": 874,
-    "timeDay": 0,
-    "timeWeek": 611,
-    "timeMonth": 857,
-    "timeYear": 874,
-    "dailyMinutesDown": {
-      "2025-12-10": 440,
-      "2026-02-13": 669,
-      "2026-02-12": 412,
-      "2026-02-26": 584,
-      "2026-02-25": 216,
-      "2026-03-02": 864,
-      "2026-03-01": 1440,
-      "2026-02-28": 452,
-      "2026-03-03": 502,
-      "2026-05-01": 471,
-      "2026-04-30": 179,
-      "2026-08-23": 43,
-      "2026-08-22": 343
-    }
-  },
-  {
     "name": "La bonne alternance",
     "url": "https://labonnealternance.apprentissage.beta.gouv.fr/",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
