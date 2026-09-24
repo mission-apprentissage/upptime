@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1251,
-    "timeDay": 1661,
-    "timeWeek": 1343,
-    "timeMonth": 1530,
-    "timeYear": 1285,
-    "dailyMinutesDown": {
-      "2025-09-24": 137
-    }
+    "time": 1250,
+    "timeDay": 1099,
+    "timeWeek": 1340,
+    "timeMonth": 1516,
+    "timeYear": 1284,
+    "dailyMinutesDown": {}
   },
   {
     "name": "La bonne alternance API",
@@ -30,13 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 410,
-    "timeDay": 915,
-    "timeWeek": 685,
-    "timeMonth": 878,
-    "timeYear": 464,
+    "time": 411,
+    "timeDay": 580,
+    "timeWeek": 692,
+    "timeMonth": 849,
+    "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-09-24": 114,
       "2025-11-28": 19,
       "2026-02-03": 18,
       "2026-04-14": 60
@@ -54,12 +51,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1088,
-    "timeDay": 1311,
-    "timeWeek": 1044,
-    "timeMonth": 1200,
-    "timeYear": 1139,
+    "timeDay": 944,
+    "timeWeek": 1058,
+    "timeMonth": 1177,
+    "timeYear": 1138,
     "dailyMinutesDown": {
-      "2025-09-24": 140,
       "2025-12-10": 31,
       "2026-08-18": 105
     }
@@ -75,13 +71,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 277,
-    "timeDay": 740,
-    "timeWeek": 639,
-    "timeMonth": 724,
-    "timeYear": 325,
+    "time": 278,
+    "timeDay": 636,
+    "timeWeek": 651,
+    "timeMonth": 698,
+    "timeYear": 326,
     "dailyMinutesDown": {
-      "2025-09-24": 138,
       "2025-12-10": 18,
       "2026-08-18": 100
     }
@@ -97,13 +92,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1500,
-    "timeDay": 1671,
-    "timeWeek": 1361,
-    "timeMonth": 1533,
+    "time": 1498,
+    "timeDay": 1059,
+    "timeWeek": 1333,
+    "timeMonth": 1509,
     "timeYear": 1507,
     "dailyMinutesDown": {
-      "2025-09-24": 145,
       "2026-02-05": 34,
       "2026-06-24": 207
     }
@@ -119,14 +113,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1045,
-    "timeDay": 1433,
-    "timeWeek": 998,
-    "timeMonth": 1009,
-    "timeYear": 1024,
-    "dailyMinutesDown": {
-      "2025-09-24": 137
-    }
+    "time": 1043,
+    "timeDay": 712,
+    "timeWeek": 986,
+    "timeMonth": 976,
+    "timeYear": 1023,
+    "dailyMinutesDown": {}
   },
   {
     "name": "BAL production - API",
@@ -139,13 +131,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 258,
-    "timeDay": 728,
-    "timeWeek": 612,
-    "timeMonth": 669,
-    "timeYear": 299,
+    "time": 259,
+    "timeDay": 351,
+    "timeWeek": 564,
+    "timeMonth": 632,
+    "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-09-24": 137,
       "2026-02-24": 37
     }
   },
@@ -160,13 +151,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
-    "time": 1349,
-    "timeDay": 1314,
-    "timeWeek": 1170,
-    "timeMonth": 1305,
+    "time": 1350,
+    "timeDay": 1047,
+    "timeWeek": 1143,
+    "timeMonth": 1280,
     "timeYear": 1515,
     "dailyMinutesDown": {
-      "2025-09-24": 137,
       "2025-11-05": 20,
       "2025-11-09": 259,
       "2025-11-10": 375,
@@ -193,12 +183,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 762,
-    "timeDay": 1015,
-    "timeWeek": 756,
-    "timeMonth": 741,
+    "timeDay": 690,
+    "timeWeek": 745,
+    "timeMonth": 718,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2025-09-24": 356,
       "2025-09-25": 416,
       "2025-10-07": 71,
       "2025-11-09": 103,
@@ -219,13 +208,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
-    "time": 1969,
-    "timeDay": 2471,
-    "timeWeek": 2343,
-    "timeMonth": 2553,
-    "timeYear": 2030,
+    "time": 1970,
+    "timeDay": 2006,
+    "timeWeek": 2254,
+    "timeMonth": 2567,
+    "timeYear": 2031,
     "dailyMinutesDown": {
-      "2025-09-24": 156,
       "2025-10-07": 71,
       "2025-11-09": 35,
       "2025-11-10": 214,
@@ -245,14 +233,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1554,
-    "timeDay": 2192,
-    "timeWeek": 2130,
-    "timeMonth": 2159,
-    "timeYear": 1633,
-    "dailyMinutesDown": {
-      "2025-09-24": 135
-    }
+    "time": 1555,
+    "timeDay": 1582,
+    "timeWeek": 2114,
+    "timeMonth": 2165,
+    "timeYear": 1632,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Apprentissage - API",
@@ -265,13 +251,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 250,
-    "timeDay": 490,
-    "timeWeek": 450,
-    "timeMonth": 618,
-    "timeYear": 287,
-    "dailyMinutesDown": {
-      "2025-09-24": 120
-    }
+    "time": 251,
+    "timeDay": 348,
+    "timeWeek": 447,
+    "timeMonth": 580,
+    "timeYear": 288,
+    "dailyMinutesDown": {}
   }
 ]
