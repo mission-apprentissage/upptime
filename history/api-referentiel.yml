@@ -1,7 +1,7 @@
 url: https://referentiel.apprentissage.beta.gouv.fr/api/v1/healthcheck
 status: up
 code: 200
-responseTime: 2027
-lastUpdated: 2026-10-09T02:45:58.456Z
+responseTime: 1821
+lastUpdated: 2026-10-10T02:03:50.309Z
 startTime: 2021-09-23T12:24:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
