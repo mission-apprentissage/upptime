@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 1268,
     "timeDay": 1006,
-    "timeWeek": 1336,
-    "timeMonth": 1321,
+    "timeWeek": 1347,
+    "timeMonth": 1308,
     "timeYear": 1291,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "99.98%",
     "time": 460,
     "timeDay": 1033,
-    "timeWeek": 829,
-    "timeMonth": 799,
+    "timeWeek": 822,
+    "timeMonth": 781,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2025-11-28": 19,
@@ -52,8 +52,8 @@
     "uptimeYear": "99.97%",
     "time": 1102,
     "timeDay": 801,
-    "timeWeek": 1070,
-    "timeMonth": 1156,
+    "timeWeek": 1065,
+    "timeMonth": 1143,
     "timeYear": 1154,
     "dailyMinutesDown": {
       "2025-12-10": 31,
@@ -73,8 +73,8 @@
     "uptimeYear": "99.98%",
     "time": 317,
     "timeDay": 357,
-    "timeWeek": 679,
-    "timeMonth": 666,
+    "timeWeek": 668,
+    "timeMonth": 669,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2025-12-10": 18,
@@ -86,20 +86,21 @@
     "url": "https://referentiel.apprentissage.beta.gouv.fr/api/v1/healthcheck",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "api-referentiel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1492,
     "timeDay": 1153,
-    "timeWeek": 1545,
-    "timeMonth": 1451,
+    "timeWeek": 1557,
+    "timeMonth": 1454,
     "timeYear": 1502,
     "dailyMinutesDown": {
       "2026-02-05": 34,
-      "2026-06-24": 207
+      "2026-06-24": 207,
+      "2026-10-29": 0
     }
   },
   {
@@ -115,8 +116,8 @@
     "uptimeYear": "100.00%",
     "time": 1037,
     "timeDay": 644,
-    "timeWeek": 884,
-    "timeMonth": 930,
+    "timeWeek": 901,
+    "timeMonth": 921,
     "timeYear": 1012,
     "dailyMinutesDown": {}
   },
@@ -133,8 +134,8 @@
     "uptimeYear": "99.99%",
     "time": 297,
     "timeDay": 550,
-    "timeWeek": 652,
-    "timeMonth": 669,
+    "timeWeek": 625,
+    "timeMonth": 656,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2026-02-24": 37
@@ -153,8 +154,8 @@
     "uptimeYear": "99.27%",
     "time": 1428,
     "timeDay": 1092,
-    "timeWeek": 1266,
-    "timeMonth": 1270,
+    "timeWeek": 1205,
+    "timeMonth": 1256,
     "timeYear": 1500,
     "dailyMinutesDown": {
       "2025-11-05": 20,
@@ -184,8 +185,8 @@
     "uptimeYear": "99.45%",
     "time": 761,
     "timeDay": 447,
-    "timeWeek": 671,
-    "timeMonth": 701,
+    "timeWeek": 649,
+    "timeMonth": 705,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2025-11-09": 103,
@@ -208,8 +209,8 @@
     "uptimeYear": "99.45%",
     "time": 1959,
     "timeDay": 1699,
-    "timeWeek": 2216,
-    "timeMonth": 2325,
+    "timeWeek": 2198,
+    "timeMonth": 2290,
     "timeYear": 2092,
     "dailyMinutesDown": {
       "2025-11-09": 35,
@@ -232,8 +233,8 @@
     "uptimeYear": "100.00%",
     "time": 1600,
     "timeDay": 1615,
-    "timeWeek": 1923,
-    "timeMonth": 1933,
+    "timeWeek": 1890,
+    "timeMonth": 1909,
     "timeYear": 1694,
     "dailyMinutesDown": {}
   },
@@ -250,8 +251,8 @@
     "uptimeYear": "100.00%",
     "time": 276,
     "timeDay": 585,
-    "timeWeek": 503,
-    "timeMonth": 504,
+    "timeWeek": 454,
+    "timeMonth": 506,
     "timeYear": 312,
     "dailyMinutesDown": {}
   }
