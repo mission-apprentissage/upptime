@@ -235,19 +235,19 @@
     "url": "https://api.apprentissage.beta.gouv.fr/api/healthcheck",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "api-apprentissage-api",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 555,
-    "timeWeek": 564,
-    "timeMonth": 518,
-    "timeYear": 332,
+    "time": 294,
+    "timeDay": 559,
+    "timeWeek": 565,
+    "timeMonth": 519,
+    "timeYear": 333,
     "dailyMinutesDown": {
-      "2026-11-16": 1
+      "2026-11-16": 20
     }
   }
 ]
