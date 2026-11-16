@@ -13,7 +13,7 @@
     "time": 1280,
     "timeDay": 964,
     "timeWeek": 1280,
-    "timeMonth": 1324,
+    "timeMonth": 1322,
     "timeYear": 1295,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 484,
     "timeDay": 549,
     "timeWeek": 726,
-    "timeMonth": 780,
+    "timeMonth": 779,
     "timeYear": 555,
     "dailyMinutesDown": {
       "2025-11-28": 19,
@@ -53,7 +53,7 @@
     "time": 1115,
     "timeDay": 695,
     "timeWeek": 1039,
-    "timeMonth": 1143,
+    "timeMonth": 1145,
     "timeYear": 1160,
     "dailyMinutesDown": {
       "2025-12-10": 31,
@@ -74,7 +74,7 @@
     "time": 337,
     "timeDay": 360,
     "timeWeek": 538,
-    "timeMonth": 680,
+    "timeMonth": 669,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2025-12-10": 18,
@@ -116,7 +116,7 @@
     "time": 1026,
     "timeDay": 1056,
     "timeWeek": 1115,
-    "timeMonth": 1036,
+    "timeMonth": 1029,
     "timeYear": 1008,
     "dailyMinutesDown": {}
   },
@@ -134,7 +134,7 @@
     "time": 319,
     "timeDay": 463,
     "timeWeek": 577,
-    "timeMonth": 695,
+    "timeMonth": 689,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2026-02-24": 37
@@ -146,7 +146,7 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "sentry-mission",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -154,7 +154,7 @@
     "time": 1510,
     "timeDay": 972,
     "timeWeek": 1252,
-    "timeMonth": 1345,
+    "timeMonth": 1347,
     "timeYear": 1286,
     "dailyMinutesDown": {
       "2025-11-30": 396,
@@ -182,7 +182,7 @@
     "time": 774,
     "timeDay": 357,
     "timeWeek": 652,
-    "timeMonth": 751,
+    "timeMonth": 762,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2025-11-30": 336,
@@ -204,7 +204,7 @@
     "time": 2081,
     "timeDay": 2652,
     "timeWeek": 2600,
-    "timeMonth": 2467,
+    "timeMonth": 2451,
     "timeYear": 2030,
     "dailyMinutesDown": {
       "2025-11-30": 345,
@@ -226,7 +226,7 @@
     "time": 1635,
     "timeDay": 1325,
     "timeWeek": 1902,
-    "timeMonth": 2046,
+    "timeMonth": 2062,
     "timeYear": 1730,
     "dailyMinutesDown": {}
   },
@@ -235,17 +235,19 @@
     "url": "https://api.apprentissage.beta.gouv.fr/api/healthcheck",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "api-apprentissage-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 650,
-    "timeWeek": 579,
-    "timeMonth": 516,
+    "time": 293,
+    "timeDay": 555,
+    "timeWeek": 564,
+    "timeMonth": 518,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-16": 1
+    }
   }
 ]
