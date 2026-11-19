@@ -13,7 +13,7 @@
     "time": 1281,
     "timeDay": 1068,
     "timeWeek": 1329,
-    "timeMonth": 1303,
+    "timeMonth": 1309,
     "timeYear": 1297,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 468,
     "timeDay": 646,
     "timeWeek": 804,
-    "timeMonth": 786,
+    "timeMonth": 787,
     "timeYear": 560,
     "dailyMinutesDown": {
       "2025-11-28": 19,
@@ -53,7 +53,7 @@
     "time": 1118,
     "timeDay": 1124,
     "timeWeek": 1171,
-    "timeMonth": 1158,
+    "timeMonth": 1157,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2025-12-10": 31,
@@ -74,7 +74,7 @@
     "time": 339,
     "timeDay": 424,
     "timeWeek": 522,
-    "timeMonth": 666,
+    "timeMonth": 657,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2025-12-10": 18,
@@ -95,7 +95,7 @@
     "time": 1494,
     "timeDay": 1279,
     "timeWeek": 1466,
-    "timeMonth": 1477,
+    "timeMonth": 1476,
     "timeYear": 1496,
     "dailyMinutesDown": {
       "2026-02-05": 34,
@@ -116,7 +116,7 @@
     "time": 1025,
     "timeDay": 917,
     "timeWeek": 1113,
-    "timeMonth": 1009,
+    "timeMonth": 1020,
     "timeYear": 1007,
     "dailyMinutesDown": {}
   },
@@ -134,7 +134,7 @@
     "time": 322,
     "timeDay": 555,
     "timeWeek": 626,
-    "timeMonth": 688,
+    "timeMonth": 685,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2026-02-24": 37
@@ -145,17 +145,17 @@
     "url": "https://sentry.apprentissage.beta.gouv.fr/_health",
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "sentry-mission",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 1511,
-    "timeDay": 1058,
-    "timeWeek": 1231,
-    "timeMonth": 1320,
-    "timeYear": 1288,
+    "time": 1576,
+    "timeDay": 15519,
+    "timeWeek": 4106,
+    "timeMonth": 2153,
+    "timeYear": 1361,
     "dailyMinutesDown": {
       "2025-11-30": 396,
       "2025-12-02": 863,
@@ -165,7 +165,8 @@
       "2026-02-17": 21,
       "2026-06-30": 46,
       "2026-07-03": 70,
-      "2026-07-07": 256
+      "2026-07-07": 256,
+      "2026-11-19": 1
     }
   },
   {
@@ -174,7 +175,7 @@
     "icon": "https://avatars3.githubusercontent.com/u/7874148?s=400&v=4",
     "slug": "monitoring-mission",
     "status": "up",
-    "uptime": "98.74%",
+    "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -182,7 +183,7 @@
     "time": 775,
     "timeDay": 521,
     "timeWeek": 720,
-    "timeMonth": 758,
+    "timeMonth": 757,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2025-11-30": 336,
@@ -204,7 +205,7 @@
     "time": 2075,
     "timeDay": 1783,
     "timeWeek": 2598,
-    "timeMonth": 2443,
+    "timeMonth": 2442,
     "timeYear": 2035,
     "dailyMinutesDown": {
       "2025-11-30": 345,
@@ -226,7 +227,7 @@
     "time": 1642,
     "timeDay": 1921,
     "timeWeek": 2024,
-    "timeMonth": 2087,
+    "timeMonth": 2107,
     "timeYear": 1738,
     "dailyMinutesDown": {}
   },
@@ -244,7 +245,7 @@
     "time": 296,
     "timeDay": 409,
     "timeWeek": 525,
-    "timeMonth": 517,
+    "timeMonth": 520,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2026-11-16": 20
